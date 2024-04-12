@@ -2,3 +2,5 @@ primera linea de codigo escrito en lenguaje para contar los pares
 segunda linea de codigo para contar pares
 tercera linea de codigo para contar pares
 cuarta linea de codigo para contar pares
+quinta linea de codigo para contar pares
+sexta linea de codigo para contar pares
