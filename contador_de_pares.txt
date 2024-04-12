@@ -1,0 +1,2 @@
+primera linea de codigo escrito en lenguaje para contar los pares
+segunda linea de codigo para contar pares
