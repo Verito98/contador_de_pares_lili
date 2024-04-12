@@ -4,3 +4,4 @@ tercera linea de codigo para contar pares
 cuarta linea de codigo para contar pares
 quinta linea de codigo para contar pares
 sexta linea de codigo para contar pares
+septima linea de codigo para contar pares
